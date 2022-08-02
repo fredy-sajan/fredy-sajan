@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **f60984157@gmail.com**
 
-- ⚡ Fun fact **I'm gonna put on my Website on the 'mars' server.**
+- ⚡ Fun fact **I'm Gonna put on my Website on the 'mars' server before Elon does.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
