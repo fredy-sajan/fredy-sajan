@@ -38,6 +38,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredy-sajan&show_icons=true&locale=en&layout=compact" alt="fredy-sajan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredy-sajan&show_icons=true&locale=en" alt="fredy-sajan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredy-sajan&" alt="fredy-sajan" /></p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?type=horizontal&username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?type=horizontal&user=fredy-sajan&theme=dark&hide_border=false)<br/>
