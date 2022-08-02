@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fredy</h1>
 <h3 align="center">A Self Taught passionate frontend developer from India</h3>
 
-<img align="right" width="400" alt="image" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g"/>
+
 
 <img align="right" alt="coding-image" width="400" src"https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g" />
 
