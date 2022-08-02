@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Fredy</h1>
 <h3 align="center">A Self Taught passionate frontend developer from India</h3>
-<img align="right" width="500" height="400" alt="Image" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g" /> 
+<img align="right" alt="coding-image" width="400" src"https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredy-sajan&label=Profile%20views&color=0e75b6&style=flat" alt="fredy-sajan" /> </p>
 
@@ -9,17 +8,17 @@
 
 - 🔭 I’m currently working on **Landing projects for Business and Personal purposes.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👯 I’m looking to collaborate on **Create Landing pages for your Business and Personal.**
 
-- 👨‍💻 All of my projects are available at [Working on it]
+- 👨‍💻 All of my projects are available at [Working on it](Working on it)
 
 - 💬 Ask me about **JavaScript, HTML and CSS**
 
 - 📫 How to reach me **f60984157@gmail.com**
 
-- ⚡ Fun fact **I'm Gonna put on my Website on the 'mars' server before Elon does.**
+- ⚡ Fun fact **I'm gonna put on my Website on the 'mars' server.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
