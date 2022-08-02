@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fredysajan" target="blank"><img src="https://img.shields.io/twitter/follow/fredysajan?logo=twitter&style=for-the-badge" alt="fredysajan" /></a> </p>
 
-- 🔭 I’m currently working on **Landing projects for Business and Personal purposes.**
+- 🔭 I’m currently working on **Landing(website) projects for Business and Personal purposes.**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Create Landing pages for your Business and Personal.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **f60984157@gmail.com**
 
-- ⚡ Fun fact **I'm gonna put on my Website on the 'mars' server.**
+- ⚡ Fun fact **I'm gonna put on my Website on the 'mars' with spaceship.**
 
 ## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredy-sajan)
