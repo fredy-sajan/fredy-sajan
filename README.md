@@ -1,7 +1,7 @@
-[!MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+[!MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26   /68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Fredy</h1>
 <h3 align="center">A Self Taught passionate frontend developer from India</h3>
-<img align-"right" alt="coding-image" width="600" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g" />
+[<img align-"right" alt="coding-image" width="600" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4747vampji1917c885gr7yc68vd4gzkgr0y70ghaqj&rid=giphy.gif&ct=g" />](https://camo.githubusercontent.com/422c8c98b958321…835623432663237323263663232646130393564632e676966)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredy-sajan&label=Profile%20views&color=0e75b6&style=flat" alt="fredy-sajan" /> </p>
 
