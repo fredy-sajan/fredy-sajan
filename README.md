@@ -40,12 +40,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredy-sajan&show_icons=true&locale=en&layout=compact" alt="fredy-sajan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredy-sajan&show_icons=true&locale=en" alt="fredy-sajan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredy-sajan&" alt="fredy-sajan" /></p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?type=horizontal&username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
