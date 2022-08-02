@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Landing projects for Business and Personal purposes.**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Create Landing pages for your Business and Personal.**
 
