@@ -33,9 +33,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fredy-sajan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">![](https://github-readme-stats.vercel.app/api?username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</p><br/>
+<p align-"center">![](https://github-readme-streak-stats.herokuapp.com/?user=fredy-sajan&theme=dark&hide_border=false)</p><br/>
+<p align="right">![](https://github-readme-stats.vercel.app/api/top-langs/?username=fredy-sajan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
