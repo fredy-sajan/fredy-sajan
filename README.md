@@ -9,17 +9,16 @@
 <p align="left"> <a href="https://twitter.com/fredysajan" target="blank"><img src="https://img.shields.io/twitter/follow/fredysajan?logo=twitter&style=for-the-badge" alt="fredysajan" /></a> </p>
 
 
-- 🔭 I’m currently working on **Landing Page(website) projects for Business and Personal purposes.**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **React**
+- Language **React**
+
+- (learning....) Node.js
 
 - 👯 I’m looking to collaborate on **Create Landing Website for your Business and Personal.**
 
-- 💬 Ask me about **JavaScript, HTML and CSS**
-
 - 📫 How to reach me **f60984157@gmail.com**
 
-- ⚡ Fun fact **I'm gonna put on my Website on 'mars'.**
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredy-sajan-23ab6a1b5/)
