@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredy-sajan&label=Profile%20views&color=0e75b6&style=flat" alt="fredy-sajan" /> </p>
 
-<br>
+
 - 🔭 I’m currently  **Exploring project's**
 
 - Language **React.js**
