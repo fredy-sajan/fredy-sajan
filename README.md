@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredy-sajan&label=Profile%20views&color=0e75b6&style=flat" alt="fredy-sajan" /> </p>
 
-
+<br>
 - 🔭 I’m currently  **Exploring project's**
 
 - Language **React.js**
@@ -19,12 +19,14 @@
 <br><br><br>
 
 ## 🌐 Connect with me:
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredy-sajan-23ab6a1b5/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fredysajan) 
 
-<br><br>
+<br><br><br>
 
 # 💻 Languages and Tools:
+<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,9 +39,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
-
+<br><br><br>
 
 ### ✍️ Quote
+<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
