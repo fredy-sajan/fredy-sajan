@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredy-sajan&label=Profile%20views&color=0e75b6&style=flat" alt="fredy-sajan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fredysajan" target="blank"><img src="https://img.shields.io/twitter/follow/fredysajan?logo=twitter&style=for-the-badge" alt="fredysajan" /></a> </p>
-
 
 - 🔭 I’m currently  **Exploring project's**
 
