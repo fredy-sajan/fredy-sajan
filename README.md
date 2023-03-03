@@ -42,6 +42,7 @@
 <br><br><br>
 
 ### ✍️ Quote <br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
