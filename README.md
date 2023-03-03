@@ -16,10 +16,13 @@
 
 - 📫 How to reach me **f60984157@gmail.com**
 
+<br><br><br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredy-sajan-23ab6a1b5/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fredysajan) 
+
+<br><br>
 
 # 💻 Languages and Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,4 +43,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fredy-sajan&icon=5&color=11)](https://visitcount.itsvg.in)
