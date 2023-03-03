@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/fredysajan" target="blank"><img src="https://img.shields.io/twitter/follow/fredysajan?logo=twitter&style=for-the-badge" alt="fredysajan" /></a> </p>
 
 
-- 🔭 I’m currently working as **Freelancer**
+- 🔭 I’m currently  **Exploring project's**
 
 - Language **React.js**
 
