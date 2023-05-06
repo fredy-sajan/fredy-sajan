@@ -2,7 +2,6 @@
 
 <h1 align="center">Hey, I'm Fredy</h1>
 <h3 align="center">A Self Taught passionate frontend developer</h3>
-<br><br>
 
 <br><br><br>
 
